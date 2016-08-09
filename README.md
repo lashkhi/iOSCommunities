@@ -1,5 +1,5 @@
 # iosCommunities
-### A list of worldwide iOS communities to find and apply for in different countries.
+### A list of iOS communities to find and apply for in different countries.
 
 To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request.
 
