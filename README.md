@@ -4,7 +4,7 @@
 To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request.
 
 ##Russia:
-**Moscow**
+*Moscow*
 
 
  **Cocoa Heads Moscow**
@@ -26,7 +26,7 @@ Twitter: https://twitter.com/rambler_ios
 
 
 ##Germany:
-**Berlin**
+*Berlin*
 
 
  **Swift Berlin**
