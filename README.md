@@ -6,7 +6,7 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 ##Russia:
 **Moscow**
 
-1. **Cocoa Heads Moscow**
+ **Cocoa Heads Moscow**
 
 Web: http://www.cocoaheads.ru
 Facebook: https://www.facebook.com/cocoaheadsmsk
@@ -14,7 +14,7 @@ Twitter: https://twitter.com/cocoaheadsmsk
 Slack community: http://cocoa-developers.slack.com
 
 
-2. **Rambler**
+ **Rambler**
 
 Twitter: https://twitter.com/rambler_ios
 
@@ -22,14 +22,14 @@ Twitter: https://twitter.com/rambler_ios
 ##Germany:
 **Berlin**
 
-1. **Swift Berlin**
+ **Swift Berlin**
 
 Web: http://swift.berlin
 Meetup: http://www.meetup.com/swift-berlin/
 Twitter: https://twitter.com/swiftberlin/
 Slack: http://swift-berlin-slackin.herokuapp.com/
 
-2. **Cocoa Heads Berlin**
+ **Cocoa Heads Berlin**
 
 Web: http://cocoaheads-berlin.org
 Twitter: http://swift-berlin-slackin.herokuapp.com/
