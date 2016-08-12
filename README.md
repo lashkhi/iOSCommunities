@@ -1,4 +1,4 @@
-# iosCommunities
+# iOSCommunities
 
 *A list of iOS communities to find and apply for in different countries.*
 
@@ -9,22 +9,16 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 #### CocoaHeads
 [Web](http://cocoaheads.org)
 
-
-## Russia
-
-### Moscow
-
-#### CocoaHeads Moscow
-
-[Web](http://www.cocoaheads.ru) - [Facebook](https://www.facebook.com/cocoaheadsmsk) - [Twitter](https://twitter.com/cocoaheadsmsk) - [Slack](http://cocoa-developers.slack.com)
-
-#### Cocoa Developers
+#### Cocoa Developers — Russian speaking developers
 
 [Web](http://cocoadevelopers.club) - [Slack](http://cocoa-developers.slack.com) ([Registration](http://cocoadevelopers.club/chat/))
 
-#### Rambler
 
-[Twitter](https://twitter.com/rambler_ios) - [Slack](https://cocoa-developers.slack.com/messages/rambler-ios/)
+## Argentina
+
+### Desarolladores iOS de Argentina (nationwide)
+
+[Meetup](http://www.meetup.com/Desarrolladores-iOS-de-Argentina/)
 
 ## Germany
 
@@ -38,6 +32,21 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 [Web](http://cocoaheads-berlin.org) - [Twitter](http://swift-berlin-slackin.herokuapp.com/) - [Meetup](http://www.meetup.com/Cocoaheads-Berlin/) - [Facebook](https://www.facebook.com/groups/cocoaheads.berlin/)
 
+
+## Russia
+
+### Moscow
+
+#### CocoaHeads Moscow
+
+[Web](http://www.cocoaheads.ru) - [Facebook](https://www.facebook.com/cocoaheadsmsk) - [Twitter](https://twitter.com/cocoaheadsmsk) - [Slack](http://cocoa-developers.slack.com)
+
+
+#### Rambler
+
+[Twitter](https://twitter.com/rambler_ios) - [Slack](https://cocoa-developers.slack.com/messages/rambler-ios/)
+
+
 ## UK
 
 ### London
@@ -48,7 +57,7 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 #### NSLondon
 
-[Web](http://nslondon.com) - [Meetup](http://www.meetup.com/NSLondon/) - [Twitter](https://twitter.com/NSLondonMeetup/)
+[Web](http://nslondon.com) - [Meetup](http://www.meetup.com/NSLondon/) - [Twitter](https://twitter.com/NSLondonMeetup/) -[Video](https://vimeopro.com/nslondon/nslondon)
 
 
 ## USA
@@ -67,8 +76,3 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 [Web](http://iosirl.com) - [Twitter](https://twitter.com/iosirl)
 
-## Argentina
-
-### Desarolladores iOS de Argentina (nationwide)
-
-[Meetup](http://www.meetup.com/Desarrolladores-iOS-de-Argentina/)
