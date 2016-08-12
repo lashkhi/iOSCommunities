@@ -35,4 +35,6 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 ## Argentina
 
-### [Desarolladores iOS de Argentina](http://www.meetup.com/Desarrolladores-iOS-de-Argentina/)
+### Desarolladores iOS de Argentina (nationwide)
+
+[Meetup](http://www.meetup.com/Desarrolladores-iOS-de-Argentina/)
