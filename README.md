@@ -4,11 +4,17 @@
 
 To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request.
 
+## Worldwide
+
+#### CocoaHeads
+[Web](http://cocoaheads.org)
+
+
 ## Russia
 
 ### Moscow
 
-#### Cocoa Heads Moscow
+#### CocoaHeads Moscow
 
 [Web](http://www.cocoaheads.ru) - [Facebook](https://www.facebook.com/cocoaheadsmsk) - [Twitter](https://twitter.com/cocoaheadsmsk) - [Slack](http://cocoa-developers.slack.com)
 
@@ -28,9 +34,18 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 [Web](http://swift.berlin) - [Meetup](http://www.meetup.com/swift-berlin/) - [Twitter](https://twitter.com/swiftberlin/) - [Slack](https://swiftberlin.slack.com) ([Registration](http://swift-berlin-slackin.herokuapp.com/))
 
-#### Cocoa Heads Berlin
+#### CocoaHeads Berlin
 
 [Web](http://cocoaheads-berlin.org) - [Twitter](http://swift-berlin-slackin.herokuapp.com/) - [Meetup](http://www.meetup.com/Cocoaheads-Berlin/) - [Facebook](https://www.facebook.com/groups/cocoaheads.berlin/)
+
+## UK
+
+### London
+
+#### Swift London
+
+[Web](http://swiftldn.co) - [Meetup](http://www.meetup.com/swiftlondon/) - [Twitter](https://twitter.com/swiftLDN) - [Slack](https://swiftlondon.slack.com) ([Registration](https://swiftlondonslack.herokuapp.com))
+
 
 
 ## Argentina
