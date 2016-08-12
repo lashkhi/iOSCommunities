@@ -39,5 +39,5 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 #### Swift London
 
-[Web](http://swiftldn.co) - [Meetup](http://www.meetup.com/swiftlondon/) - [Twitter](https://twitter.com/swiftLDN)
+[Web](http://swiftldn.co) - [Meetup](http://www.meetup.com/swiftlondon/) - [Twitter](https://twitter.com/swiftLDN) - [Slack](https://swiftlondon.slack.com) ([Registration](https://swiftlondonslack.herokuapp.com))
 
