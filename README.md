@@ -46,7 +46,26 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 [Web](http://swiftldn.co) - [Meetup](http://www.meetup.com/swiftlondon/) - [Twitter](https://twitter.com/swiftLDN) - [Slack](https://swiftlondon.slack.com) ([Registration](https://swiftlondonslack.herokuapp.com))
 
+#### NSLondon
 
+[Web](http://nslondon.com) - [Meetup](http://www.meetup.com/NSLondon/) - [Twitter](https://twitter.com/NSLondonMeetup/)
+
+
+## USA
+
+### New York
+
+#### iOSoho
+
+[Meetup](http://www.meetup.com/iOSoho/) - [Twitter](https://twitter.com/iOSoho/)
+
+#### Brooklyn Swift
+
+[Meetup](http://www.meetup.com/Brooklyn-Swift-Developers/) - [Twitter](https://twitter.com/bklnswift)
+
+#### iOS IRL
+
+[Web](http://iosirl.com) - [Twitter](https://twitter.com/iosirl)
 
 ## Argentina
 
