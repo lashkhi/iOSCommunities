@@ -33,6 +33,15 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 [Web](http://cocoaheads-berlin.org) - [Twitter](http://swift-berlin-slackin.herokuapp.com/) - [Meetup](http://www.meetup.com/Cocoaheads-Berlin/) - [Facebook](https://www.facebook.com/groups/cocoaheads.berlin/)
 
 
+## Poland
+
+### Warsaw
+
+#### Swift Warsaw
+
+[Meetup](http://www.meetup.com/Swift-Warsaw/) - [Facebook](https://www.facebook.com/swiftwarsaw/) - [Twitter](https://twitter.com/swiftwarsaw) - [Slack](https://sw-slack.slack.com) ([Registration](https://sw-slack.herokuapp.com))
+
+
 ## Russia
 
 ### Moscow
