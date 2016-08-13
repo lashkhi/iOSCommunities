@@ -76,3 +76,8 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 [Web](http://iosirl.com) - [Twitter](https://twitter.com/iosirl)
 
+### San Francisco
+
+#### SLUG (Swift Language User Group)
+
+[Meetup](http://www.meetup.com/swift-language/)
