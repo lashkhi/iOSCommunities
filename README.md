@@ -20,6 +20,12 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 [Meetup](http://www.meetup.com/Desarrolladores-iOS-de-Argentina/)
 
+## France
+
+#### Communauté francophone des développeurs iOS 
+
+[Facebook](https://www.facebook.com/groups/devsios/) 
+
 ## Germany
 
 ### Berlin
