@@ -16,7 +16,21 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 ## Argentina
 
-### Desarolladores iOS de Argentina (nationwide)
+### Buenos Aires
+
+#### NSCoder Buenos Aires
+
+[Web](http://nscoderba.tumblr.com) - [Twitter](https://twitter.com/nscoderba)
+
+#### NSConf Argentina
+
+[Web](http://nsconfarg.com) - [Twitter](https://twitter.com/nsconfarg)
+
+#### SwiftBA
+
+[Meetup](http://www.meetup.com/SwiftBA/)
+
+#### Desarolladores iOS de Argentina
 
 [Meetup](http://www.meetup.com/Desarrolladores-iOS-de-Argentina/)
 
