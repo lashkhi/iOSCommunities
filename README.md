@@ -90,3 +90,16 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 #### SLUG (Swift Language User Group)
 
 [Meetup](http://www.meetup.com/swift-language/)
+
+## Turkey
+
+### Istanbul
+
+#### NSIstanbul
+
+[Web](http://nsistanbul.com/) - [Slack](https://nsistanbul.slack.com) - [Meetup](http://www.meetup.com/NSIstanbul-iOS-Meetup/) - [Twitter](https://twitter.com/NS_Istanbul)
+
+#### Cocoaist
+
+[Web](http://cocoaist.org/) - [Slack](https://cocoaist.slack.com) - [Meetup](http://www.meetup.com/cocoaist/) - [Twitter](https://twitter.com/cocoaist)
+
