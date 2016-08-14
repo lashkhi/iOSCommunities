@@ -90,3 +90,7 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 #### SLUG (Swift Language User Group)
 
 [Meetup](http://www.meetup.com/swift-language/)
+
+#### NSMeetup
+
+[Meetup](http://www.meetup.com/nsmeetup/) - [Twitter](https://twitter.com/nsmeetup) - [Youtube](https://www.youtube.com/channel/UCJ09GpR7MvE5e8DqspL6tNw)
