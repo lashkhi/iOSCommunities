@@ -20,6 +20,12 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 [Meetup](http://www.meetup.com/Desarrolladores-iOS-de-Argentina/)
 
+## France
+
+#### Communauté francophone des développeurs iOS 
+
+[Facebook](https://www.facebook.com/groups/devsios/) 
+
 ## Germany
 
 ### Berlin
@@ -94,3 +100,16 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 #### NSMeetup
 
 [Meetup](http://www.meetup.com/nsmeetup/) - [Twitter](https://twitter.com/nsmeetup) - [Youtube](https://www.youtube.com/channel/UCJ09GpR7MvE5e8DqspL6tNw)
+
+## Turkey
+
+### Istanbul
+
+#### NSIstanbul
+
+[Web](http://nsistanbul.com/) - [Slack](https://nsistanbul.slack.com) - [Meetup](http://www.meetup.com/NSIstanbul-iOS-Meetup/) - [Twitter](https://twitter.com/NS_Istanbul)
+
+#### Cocoaist
+
+[Web](http://cocoaist.org/) - [Slack](https://cocoaist.slack.com) - [Meetup](http://www.meetup.com/cocoaist/) - [Twitter](https://twitter.com/cocoaist)
+
