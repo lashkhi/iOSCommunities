@@ -20,7 +20,7 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 #### NSCoder Buenos Aires
 
-[Twitter](https://twitter.com/nscoderba) - [Web](http://nscoderba.tumblr.com)
+[Web](http://nscoderba.tumblr.com) - [Twitter](https://twitter.com/nscoderba)
 
 #### NSConf Argentina
 
