@@ -129,6 +129,14 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 [Meetup](http://www.meetup.com/nsmeetup/) - [Twitter](https://twitter.com/nsmeetup) - [Youtube](https://www.youtube.com/channel/UCJ09GpR7MvE5e8DqspL6tNw)
 
+#### iOS CoffUp
+
+Dynamic iCal URL: Copy and paste this into your calendar's "subscription" functionality rather than downloading the static file.  `https://calendar.google.com/calendar/ical/ho60q57pauegr2ki4v9hhspvdo%40group.calendar.google.com/public/basic.ics`
+
+#### NSCoderNight
+
+[Twitter](https://twitter.com/nscodernightsf)
+
 ## Turkey
 
 ### Istanbul
