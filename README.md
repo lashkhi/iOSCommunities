@@ -82,6 +82,13 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 [Twitter](https://twitter.com/rambler_ios) - [Slack](https://cocoa-developers.slack.com/messages/rambler-ios/)
 
+## Spain
+
+### Barcelona
+
+#### NSBarcelona
+
+[Meetup](https://www.meetup.com/nsbarcelona/)
 
 ## UK
 
