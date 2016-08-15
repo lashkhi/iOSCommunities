@@ -34,6 +34,13 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 [Meetup](http://www.meetup.com/Desarrolladores-iOS-de-Argentina/)
 
+## Brazil
+
+#### CocoaHeads BR
+
+[Web](http://www.cocoaheads.com.br/) - [Meetup](https://www.meetup.com/AppsterdamBR/) - [Twitter](https://twitter.com/cocoaheadsbr/) - [Slack Registration](http://iosdevbr.herokuapp.com/)
+
+
 ## France
 
 #### Communauté francophone des développeurs iOS 
