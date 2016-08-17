@@ -68,6 +68,12 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 [Meetup](http://www.meetup.com/Swift-Warsaw/) - [Facebook](https://www.facebook.com/swiftwarsaw/) - [Twitter](https://twitter.com/swiftwarsaw) - [Slack](https://swift-warsaw.slack.com) ([Registration](https://sw-slack.herokuapp.com))
 
+### Wrocław
+
+#### LET SWIFT
+
+[Facebook](https://www.facebook.com/letswiftwroclaw/)
+
 
 ## Russia
 
