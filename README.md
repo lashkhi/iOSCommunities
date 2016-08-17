@@ -59,6 +59,13 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 [Web](http://cocoaheads-berlin.org) - [Twitter](http://swift-berlin-slackin.herokuapp.com/) - [Meetup](http://www.meetup.com/Cocoaheads-Berlin/) - [Facebook](https://www.facebook.com/groups/cocoaheads.berlin/)
 
+## Japan
+
+### Tokyo
+
+#### Tokyo iOS Meetup
+
+[Meetup](https://www.meetup.com/TokyoiOSMeetup/)
 
 ## Poland
 
