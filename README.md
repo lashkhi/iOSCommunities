@@ -131,7 +131,7 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 #### iOS CoffUp
 
-Dynamic iCal URL: Copy and paste this into your calendar's "subscription" functionality rather than downloading the static file.  `https://calendar.google.com/calendar/ical/ho60q57pauegr2ki4v9hhspvdo%40group.calendar.google.com/public/basic.ics`
+[Web](http://rodericj.github.io/CoffUp/)
 
 #### NSCoderNight
 
