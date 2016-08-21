@@ -115,6 +115,23 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 [Web](http://nslondon.com) - [Meetup](http://www.meetup.com/NSLondon/) - [Twitter](https://twitter.com/NSLondonMeetup/) -[Video](https://vimeopro.com/nslondon/nslondon)
 
+## Ukraine
+
+#### CocoaHeads Ukraine
+
+[Facebook](https://www.facebook.com/CocoaHeadsUkraine) - [Twitter](https://twitter.com/cocoaheadsua)
+
+### Kyiv
+
+### CocoaHeads Kyiv
+
+[Web](http://cocoaheads.org/ua/Kyiv/index.html)
+
+### Dnipro
+
+### CocoaHeads Dnepropetrovsk
+
+[Web](http://cocoaheads.org/ua/Dnepropetrovsk/index.html) 
 
 ## USA
 
