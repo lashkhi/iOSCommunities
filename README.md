@@ -103,6 +103,20 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 [Meetup](https://www.meetup.com/nsbarcelona/)
 
+## Sweden
+
+### Gothenburg
+
+#### Cocoaheads Göteborg
+
+[Meetup](https://www.meetup.com/cocoaheads-goteborg/) - [Twitter](https://twitter.com/cocoaheadsgbg) - [Github](https://github.com/cocoaheads-goteborg)
+
+### Stockholm
+
+#### Cocoaheads Stockholm
+
+[Meetup](http://www.meetup.com/CocoaHeads-Stockholm/) - [Facebook](https://www.facebook.com/cocoaheadsstockholm/) - [Twitter](https://twitter.com/cocoaheadssthlm) - [Vimeo](https://vimeo.com/cocoaheadssthlm)
+
 ## UK
 
 ### London
