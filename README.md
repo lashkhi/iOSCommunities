@@ -75,6 +75,10 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 [Meetup](http://www.meetup.com/Swift-Warsaw/) - [Facebook](https://www.facebook.com/swiftwarsaw/) - [Twitter](https://twitter.com/swiftwarsaw) - [Slack](https://swift-warsaw.slack.com) ([Registration](https://sw-slack.herokuapp.com))
 
+#### Mobile Warsaw
+
+[Web](http://mobile-warsaw.pl) - [Meetup](https://www.meetup.com/Mobile-Warsaw/) - [Facebook](https://www.facebook.com/MobileWarsaw/) - [Twitter](https://twitter.com/mobilewarsaw)
+
 ### Wrocław
 
 #### LET SWIFT
