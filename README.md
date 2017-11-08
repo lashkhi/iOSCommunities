@@ -9,6 +9,9 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 #### CocoaHeads
 [Web](http://cocoaheads.org)
 
+#### NSCoderNight
+[Web](http://nscodernight.com)
+
 #### Cocoa Developers — Russian speaking developers
 
 [Web](http://cocoadevelopers.club) - [Slack](http://cocoa-developers.slack.com) ([Registration](http://cocoadevelopers.club/chat/))
@@ -186,10 +189,6 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 #### iOS CoffUp
 
 [Web](http://rodericj.github.io/CoffUp/)
-
-#### NSCoderNight
-
-[Twitter](https://twitter.com/nscodernightsf)
 
 ## Turkey
 
