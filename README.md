@@ -91,6 +91,11 @@ To contribute, click README.md and then the pencil icon. Make your changes and c
 
 [Facebook](https://www.facebook.com/letswiftwroclaw/)
 
+### Gdansk
+
+#### CocoaHeads Tricity
+
+[Facebook](https://www.facebook.com/CocoaHeadsTricity/)
 
 ## Russia
 
